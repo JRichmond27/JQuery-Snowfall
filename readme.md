@@ -1,10 +1,12 @@
 Snowfall jquery plugin
 ======================
 
-[Live Demo](https://loktar00.github.io/JQuery-Snowfall/)
----
+Version 2.0 Dec 21st 2021
+--------------------------
 
-Install using `bower install jquery-snowfall`
+Forked from [loktar00/JQuery-Snowfall](https://github.com/loktar00/JQuery-Snowfall)
+
+Heavily modified for use on [thewellcommunity.org](https://thewellcommunity.org)
 
 Version 1.7.4
 ---
